@@ -88,6 +88,11 @@
             name_code="az"
             phone_code="994" />
         <country
+            name="Bonaire"
+            english_name="Bonaire"
+            name_code="bq"
+            phone_code="599" />
+        <country
             name="बोस्निया और हर्जेगोविना"
             english_name="Bosnia And Herzegovina"
             name_code="ba"

@@ -89,6 +89,11 @@
             phone_code="994" />
         <country
             name="TODO: replace with  translated country name"
+            english_name="Bonaire"
+            name_code="bq"
+            phone_code="599" />
+        <country
+            name="TODO: replace with  translated country name"
             english_name="Bosnia And Herzegovina"
             name_code="ba"
             phone_code="387" />
